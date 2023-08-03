@@ -3,7 +3,6 @@ name: "New Project \U0001F9D1‍\U0001F4BB"
 about: Overview of project proposals and request for contributions.
 title: ''
 labels: ''
-assignees: ''
 
 ---
 
