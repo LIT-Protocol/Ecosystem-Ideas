@@ -3,17 +3,17 @@ name: "New Idea \U0001F4A1"
 about: Submit a new idea!
 title: ''
 labels: ''
-status: ''
-type: ''
-service: ''
+assignees: ''
 
 ---
 
-### Overview
+### Description
 
 
-### Problem Summary
+### Why? (problem statement)
 
 
-### Desired features
+### What will this tool enable?
 
+
+### Implementation Guidelines
